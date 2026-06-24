@@ -1,0 +1,3 @@
+Al consultar el endpoint GET /reportes, el servidor devuelve una lista de los reportes registrados en formato JSON. Cada reporte contiene información como el identificador (id), el tipo de incidencia y una descripción del problema reportado.
+
+permitiendo visualizar de manera organizada los reportes almacenados
