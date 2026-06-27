@@ -1,0 +1,3 @@
+1.colocar un contraseña robusta y no compartirla en sitios públicos
+2.no colocar la misma contraseña en todas las cuentas.
+3.actulizar el software 

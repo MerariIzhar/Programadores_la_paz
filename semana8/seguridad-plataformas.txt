@@ -1,0 +1,5 @@
+1. utilizar una contraseña segura y robusta.
+2. proteger los datos de los usuario no compartir sin autorización.
+3. tener copias de seguria en caso de fallos o ataques.
+4.actulizar el sistema para corregir vulnerabilidades.
+5.verificar la identidad de los usuarios antes de permitir el acceso.

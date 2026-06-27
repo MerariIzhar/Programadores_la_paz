@@ -1,0 +1,7 @@
+1. Qué información muestra cada comando?
+uname -a: Este comando muestra información sobre el sistema operativo y la máquina, como el nombre del sistema, el nombre del equipo, la versión del kernel, la arquitectura del procesador y otros detalles del sistema.
+whoami: Este comando muestra el nombre del usuario que tiene la sesión abierta actualmente en la terminal.
+
+2. Por qué es útil conocer información del sistema cuando se administra un servidor?
+
+Es importante conocer la información del sistema porque permite administrar el servidor de manera más eficiente. Además, ayuda a identificar las características del equipo, como su arquitectura y capacidad, para saber cuánto puede soportar, detectar posibles problemas y tomar mejores decisiones al instalar programas o realizar configuraciones.
