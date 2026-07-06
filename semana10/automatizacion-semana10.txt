@@ -1,0 +1,6 @@
+Evento: cuando un ciudadano registra un nuevo reporte de acumulación de basura en la plataforma.
+
+Mensaje: "Nuevo reporte de incidencia recibido. Ingresa al sistema para revisarlo y asignarlo al área correspondiente."
+
+
+No deben enviarse: nombres completos, documentos de identidad, direcciones, números de teléfono, correos electrónicos, contraseñas ni ningún otro dato personal o sensible del ciudadano.

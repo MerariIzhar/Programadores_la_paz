@@ -1,0 +1,7 @@
+Como ciudadano quiero denunciar la acumulación de basura para contribuir al cuidado del ambiente.
+
+Como funcionario quiero clasificar los reportes por tipo de incidencia para asignarlos al área correspondiente.
+
+Como ciudadano quiero editar un reporte antes de que sea revisado para corregir errores.
+
+Como administrador quiero exportar los reportes en formato PDF o Excel para elaborar informes.
