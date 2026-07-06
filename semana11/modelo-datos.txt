@@ -1,0 +1,25 @@
+Entidad: Incidencia
+
+Campos principales:
+- id
+- titulo
+- descripcion
+- categoria
+- fecha
+- estado
+
+Propósito:
+Registrar las incidencias reportadas por los ciudadanos para que puedan ser revisadas y atendidas por la entidad responsable.
+
+
+Entidad: Seguimiento
+
+Campos principales:
+- id
+- incidencia_id
+- responsable
+- observacion
+- fecha_actualizacion
+
+Propósito:
+Guardar el historial de las acciones realizadas sobre cada incidencia, permitiendo conocer el avance y las soluciones implementadas.
