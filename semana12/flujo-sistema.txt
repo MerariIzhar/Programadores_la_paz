@@ -1,0 +1,5 @@
+1.El ciudadano accede a la plataforma y busca una causa de su interés.
+2.Selecciona la causa y lee toda la información publicada.
+3.Si está de acuerdo, hace clic en el botón Apoyar.
+4.El sistema registra el apoyo y actualiza el contador en tiempo real.
+5.El administrador puede revisar la información y generar un reporte o un documento PDF con los resultados.

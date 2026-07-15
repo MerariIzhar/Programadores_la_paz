@@ -1,0 +1,5 @@
+Evento: una petición cambia de estado a pendiente de revisión.
+
+Mensaje: "Una petición está pendiente de revisión. Ingresa a la plataforma para gestionarla."
+
+Información que no debe enviarse: datos personales de los ciudadanos, números de documento, direcciones, teléfonos, correos electrónicos, contraseñas o archivos privados.

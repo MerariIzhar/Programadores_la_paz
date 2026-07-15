@@ -1,0 +1,19 @@
+Petición
+
+id
+titulo
+descripcion
+categoria
+fecha
+
+Comentario
+
+id
+peticion_id
+mensaje
+fecha
+
+Explicación:
+
+Petición: almacena la información de cada solicitud o iniciativa creada por los ciudadanos para mejorar la comunidad.
+Comentario: guarda los aportes que los ciudadanos realizan sobre una petición, permitiendo la participación y el intercambio de ideas.
